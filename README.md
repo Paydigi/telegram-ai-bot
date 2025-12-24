@@ -8,5 +8,11 @@ A simple Telegram chatbot built with Python and OpenAI GPT.
 - Python backend
 - Secure API key handling
 
+## Use Cases
+- AI assistants
+- Support bots
+- Automation helpers
+
 ## Setup
 Insert your own API keys locally before running the bot.
+
